@@ -1,0 +1,18 @@
+{
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [
+      {
+        "schedule1": {
+          "title": "Squash"
+        },
+        "schedule2": {
+          "title": "Meeting with Sandra"
+        }
+      }
+    ],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+}

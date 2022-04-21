@@ -1,0 +1,180 @@
+{
+  "user1": {
+    "monday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-06T09:00:00+00:00",
+        "end": "2022-06-06T09:30:00+00:00"
+      },
+      {
+        "title": "Meet Karen",
+        "start": "2022-06-06T10:00:00+00:00",
+        "end": "2022-06-06T10:30:00+00:00"
+      },
+      {
+        "title": "Get Steve's notes",
+        "start": "2022-06-06T13:55:00+00:00",
+        "end": "2022-06-06T14:05:00+00:00"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-07T09:00:00+00:00",
+        "end": "2022-06-07T09:30:00+00:00"
+      },
+      {
+        "title": "Take out trash",
+        "start": "2022-06-07T10:00:00+00:00",
+        "end": "2022-06-07T10:30:00+00:00"
+      },
+      {
+        "title": "Squash",
+        "start": "2022-06-07T13:00:00+00:00",
+        "end": "2022-06-07T15:00:00+00:00"
+      },
+      {
+        "title": "Squash",
+        "start": "2022-06-07T17:00:00+00:00",
+        "end": "2022-06-07T18:00:00+00:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-08T09:00:00+00:00",
+        "end": "2022-06-08T09:30:00+00:00"
+      },
+      {
+        "title": "Squash",
+        "start": "2022-06-08T13:00:00+00:00",
+        "end": "2022-06-08T14:00:00+00:00"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-09T09:00:00+00:00",
+        "end": "2022-06-09T09:30:00+00:00"
+      },
+      {
+        "title": "Squash",
+        "start": "2022-06-09T13:00:00+00:00",
+        "end": "2022-06-09T14:00:00+00:00"
+      }
+    ],
+    "friday": [
+      {
+        "title": "Wake up (Wake up)",
+        "start": "2022-06-10T07:00:00+00:00",
+        "end": "2022-06-10T07:30:00+00:00"
+      },
+      {
+        "title": "Grab a brush and put a little makeup",
+        "start": "2022-06-10T07:30:00+00:00",
+        "end": "2022-06-10T07:45:00+00:00"
+      },
+      {
+        "title": "Hide your scars to fade away the shakeup (Hide the scars to fade away the shakeup)",
+        "start": "2022-06-10T08:00:00+00:00",
+        "end": "2022-06-10T08:15:00+00:00"
+      },
+      {
+        "title": "Why'd you leave the keys upon the table?",
+        "start": "2022-06-10T09:00:00+00:00",
+        "end": "2022-06-10T09:10:00+00:00"
+      }
+    ],
+    "saturday": [],
+    "sunday": []
+  },
+  "user2": {
+    "monday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-06T07:00:00+00:00",
+        "end": "2022-06-06T07:30:00+00:00"
+      },
+      {
+        "title": "Meet Karen",
+        "start": "2022-06-06T10:00:00+00:00",
+        "end": "2022-06-06T10:30:00+00:00"
+      },
+      {
+        "title": "Speak to Steve",
+        "start": "2022-06-06T13:00:00+00:00",
+        "end": "2022-06-06T14:00:00+00:00"
+      }
+  ],
+    "tuesday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-07T07:00:00+00:00",
+        "end": "2022-06-01T07:30:00+00:00"
+      },
+      {
+        "title": "Check in with Marty",
+        "start": "2022-06-07T10:20:00+00:00",
+        "end": "2022-06-07T11:00:00+00:00"
+      },
+      {
+        "title": "Footie",
+        "start": "2022-06-07T13:00:00+00:00",
+        "end": "2022-06-07T15:00:00+00:00"
+      },
+      {
+        "title": "Footie",
+        "start": "2022-06-07T17:00:00+00:00",
+        "end": "2022-06-07T18:00:00+00:00"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-08T07:00:00+00:00",
+        "end": "2022-06-08T07:30:00+00:00"
+      },
+      {
+        "title": "Boozey Lunch",
+        "start": "2022-06-08T12:00:00+00:00",
+        "end": "2022-06-08T13:00:00+00:00"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "Wake up",
+        "start": "2022-06-09T07:00:00+00:00",
+        "end": "2022-06-09T07:30:00+00:00"
+      },
+      {
+        "title": "Meeting with Sandra",
+        "start": "2022-06-09T13:00:00+00:00",
+        "end": "2022-06-09T14:00:00+00:00"
+      }
+    ],
+    "friday": [
+      {
+        "title": "Wake up (Wake up)",
+        "start": "2022-06-10T07:00:00+00:00",
+        "end": "2022-06-10T07:30:00+00:00"
+      },
+      {
+        "title": "Grab a brush and put a little makeup",
+        "start": "2022-06-10T07:45:00+00:00",
+        "end": "2022-06-10T08:00:00+00:00"
+      },
+      {
+        "title": "Hide your scars to fade away the shakeup (Hide the scars to fade away the shakeup)",
+        "start": "2022-06-10T08:05:00+00:00",
+        "end": "2022-06-10T08:35:00+00:00"
+      },
+      {
+        "title": "Why'd you leave the keys upon the table?",
+        "start": "2022-06-10T09:15:00+00:00",
+        "end": "2022-06-10T09:45:00+00:00"
+      }
+    ],
+    "saturday": [],
+    "sunday": []
+  }
+}
